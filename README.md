@@ -23,14 +23,6 @@ This chatbot can be used with Discord! To try it out, you just have to :
 ## How to communicate with the chatbot
 
  
-First you can message the bot to tell him that you are here.  
-
-"hi","Hey","sup","what's new? ","how have you been ", "how are you","someone here" ,"is anyone there?", "hello", "good day", "whats up", "whats good" 
-
-           
-
-If you want to leave say "bye" or something like that. 
- 
 ### Scenario 1 : get the release year of a movie
 
 - "In what year was Inception released?"
