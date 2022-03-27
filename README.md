@@ -73,7 +73,7 @@ This chatbot can be used with Discord! To try it out, you just have to :
 
 ### Scenario 8 : display the poster of a movie
 
-- "Show me the poster of Scarface?"
+- "Show me the poster of Scarface"
 - "Can you send me the picture of American Psycho?"
 
 ### Scenario 9 : 
