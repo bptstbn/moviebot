@@ -2,6 +2,11 @@
 Discord Movie Chatbot
 
 
+## GitHub Link of the project
+
+https://github.com/bptstbn/moviebot
+
+
 ## Contributors
 
 - Baptiste Bony
